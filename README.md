@@ -1,4 +1,4 @@
-# NeuralNetworks
+# Neural Networks
 This repository documents different neural networks I have implemented during Machine Learning course I took as part of my Computer Science studies at Bar-Ilan University.
 
 <p align="center"><img src=https://user-images.githubusercontent.com/72878018/154795472-e2d8cebc-d516-497c-9e7e-8fa66e2a41d1.gif></p>
